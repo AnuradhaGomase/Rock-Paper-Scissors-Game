@@ -1,4 +1,4 @@
-# Netflix Clone
+# Rock Paper Scissors Game
 
 This is a Rock-Paper-Scissors game build with HTML, CSS, and Javascript.
 
